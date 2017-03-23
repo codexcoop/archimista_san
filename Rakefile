@@ -16,7 +16,7 @@ end
 desc 'Generate documentation for the archimista_san plugin.'
 RDoc::Task.new(:rdoc) do |rdoc|
   rdoc.rdoc_dir = 'rdoc'
-  rdoc.title    = 'ArchimistaSan'
+  rdoc.title    = 'Archimista SAN'
   rdoc.options << '--line-numbers' << '--inline-source'
   rdoc.rdoc_files.include('README')
   rdoc.rdoc_files.include('lib/**/*.rb')

@@ -1,8 +1,8 @@
-# Archimista San
+# Archimista SAN
 
 **NOTA: modulo in lavorazione**
 
-Archimista San è un plugin per Archimista che consente l'esportazione di metadati in formato SAN (Sistema Archivistico Nazionale).
+Archimista SAN è un plugin per Archimista che consente l'esportazione di metadati in formato SAN (Sistema Archivistico Nazionale).
 
 ## Installazione
 
@@ -27,8 +27,8 @@ rake build_mets[fond_id]
 
 ## Crediti
 
-Archimista San è sviluppato da [Codex](http://www.codexcoop.it), su incarico dell'Istituto Centrale per gli Archivi.
+Archimista SAN è sviluppato da [Codex](http://www.codexcoop.it), su incarico dell'Istituto Centrale per gli Archivi.
 
 ## Licenza
 
-Archimista San è rilasciato sotto licenza MIT.
+Archimista SAN è rilasciato sotto licenza MIT.
